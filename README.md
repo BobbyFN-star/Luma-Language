@@ -2,6 +2,8 @@
 
 Luma is a small programming language built around one idea: programming should be easy to read and easy to write.
 
+USAGE: .\luma test.luma
+
 The syntax is simple and familiar, without a bunch of unnecessary symbols or complicated concepts getting in the way.
 
 ```luma
